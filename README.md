@@ -1,2 +1,2 @@
-# SCARA_ROBOT
+# SCARA_ROBOT_MATLAB
 codigo
